@@ -2,7 +2,7 @@
 
 A lightweight Java-based framework inspired by Spring Boot, built to demonstrate key concepts of backend framework development such as Dependency Injection, IoC, custom annotations, reflection, and configuration management.
 
-# 🎯 Developed as part of the Advanced Software Development course at Maharishi International University.
+**🎯 Developed as part of the Advanced Software Development course at Maharishi International University.**
 
 # 🛠️ Core Features
 This project was implemented incrementally in multiple parts, each mimicking a feature of the Spring Framework:
@@ -54,7 +54,7 @@ Design Patterns (Factory, Singleton, Proxy, etc.)\
 IntelliJ IDEA
 
 # ▶️ Getting Started
-**Prerequisites**
+**Prerequisites**\
 Java JDK 17+\
 Maven installed\
 IDE like IntelliJ IDEA
@@ -71,9 +71,9 @@ mvn clean install
 src/app/AnnotationApp.java or Application.java depending on the feature you're testing.\
 
 # 💡 What I Learned
-**🔍 Deep dive into Java Reflection and runtime annotation processing**
-**🧠 Understanding how IoC containers are built and initialized**
-**🧱 Creating extensible architecture patterns similar to enterprise frameworks**
+**🔍 Deep dive into Java Reflection and runtime annotation processing**\
+**🧠 Understanding how IoC containers are built and initialized**\
+**🧱 Creating extensible architecture patterns similar to enterprise frameworks**\
 **🔁 Mimicking Spring Boot's startup flow, annotations, and modularity**
 
 # 🙌 Acknowledgements
