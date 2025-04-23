@@ -1,4 +1,5 @@
-🌀 Mini Spring Boot Framework
+**🌀 Mini Spring Boot Framework**
+
 A lightweight Java-based framework inspired by Spring Boot, built to demonstrate key concepts of backend framework development such as Dependency Injection, IoC, custom annotations, reflection, and configuration management.
 
 🎯 Developed as part of the Advanced Software Development course at Maharishi International University.
